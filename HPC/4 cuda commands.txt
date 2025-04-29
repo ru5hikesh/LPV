@@ -1,0 +1,7 @@
+nvidia-smi
+sudo apt update
+sudo apt install nvidia-cuda-toolkit
+nvcc --version
+nano vectorAdd.cu  # paste your code
+nvcc vectorAdd.cu -o vectorAdd
+./vectorAdd
