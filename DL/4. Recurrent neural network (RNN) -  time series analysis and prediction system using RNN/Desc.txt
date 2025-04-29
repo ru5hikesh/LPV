@@ -1,0 +1,5 @@
+1. Problem statement
+Recurrent neural network (RNN) Use the Google stock prices dataset and design a time series analysis and prediction system using RNN.
+
+We are given Google stock price from 01/2012 to 12/2017.
+The task is to predict the trend of the stock price for 01-06 2018.
